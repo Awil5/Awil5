@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullahi Awil</h1>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 <h3 align="center">I am aspiring Cybersecurity Analyst</h3>
 
 - 🤝 I’m looking for help with **landing a cybersecurity role**
